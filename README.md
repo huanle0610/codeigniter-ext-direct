@@ -4,7 +4,9 @@ To use this direct adapter you have to understand Ext Direct (see Ext Direct exa
 
 In the head of your html page add:
 
+```html
 <script type="text/javascript" src="<?php echo site_url('direct/api'); ?>"></script>
+```
 
 ## Controller classes
 Ext controller classes are placed in the new application/ext/direct/ folder.
